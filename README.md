@@ -1,5 +1,5 @@
 # Dark EcoleDirecte
-Un thème sombre pour EcoleDirecte (v3.6.1)
+Un thème sombre pour EcoleDirecte (v4.5.9)
 
 ## Installation
 Installez [Stylus](https://add0n.com/stylus.html) si vous utilisez Firefox, Chrome ou Opera.
