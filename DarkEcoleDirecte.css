@@ -20,7 +20,7 @@
     }
 
     body::after {
-        content: "Ce style a été créé par Dany BENBARA | Visitez: github.com/danbenba";
+        content: "Ce style a été créé par Dany (danbenba) | Visitez: github.com/danbenba";
         display: block;
         position: fixed;
         left: 0;
